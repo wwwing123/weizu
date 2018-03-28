@@ -1,6 +1,6 @@
-# youzu
+# weizu
 
-> youzu
+> weizu
 
 ## Build Setup
 
